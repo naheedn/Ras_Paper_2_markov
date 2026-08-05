@@ -1,0 +1,5 @@
+# Dependencies for the analysis/ and verification/ scripts in this repository.
+# sqlite3, json, and pathlib are Python standard library -- no install needed.
+numpy
+scipy
+pandas
